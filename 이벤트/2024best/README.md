@@ -4,6 +4,7 @@
 - [2023년 홍보영상](https://www.youtube.com/watch?v=OBEc8t5KANk)
 - [공고문](자료/2024_블록체인_경진대회_BEST_Challenge_모집_공고문.pdf)
 - [사전 설명회 신청 (7/2 화 24:00 마감)](https://forms.gle/2BBhyWKd7CEdx7Gj7)
+- [사전 설명회 영상](https://youtu.be/FSSk-sILRY8?si=yG35_IQFeIh0ppts)
 
 # 트랙
 ## [아이디어톤](https://forms.gle/eFFkt2XEjDp4pPwe9)
